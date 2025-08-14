@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Umang Giri and I'm a Computer Engineer, from Kathmandu, Nepal</p>
+<h1 align="left">Hey 👋! My name is Umang Giri and I'm a Computer Engineer, from Kathmandu, Nepal</h1>
 
 ###
 
