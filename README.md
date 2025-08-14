@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ethical hacking since: 2019<br>📚 Currently learning: Advanced penetration testing, exploit development, and cloud security<br>🎯 Goals: Contribute to open-source security tools and help secure banking systems<br>🎲 Fun fact: I enjoy solving Capture The Flag (CTF) challenges in my free time</p>
+<p align="left">✨ Ethical hacking since: 2024<br>📚 Currently learning: Advanced penetration testing, exploit development, and cloud security<br>🎯 Goals: Contribute to open-source security tools and help secure banking systems<br>🎲 Fun fact: I enjoy solving Capture The Flag (CTF) challenges in my free time</p>
 
 ###
 
