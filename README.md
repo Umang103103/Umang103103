@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Web Development since: 2024<br>📚 Currently learning: React custom Hooks and Redux<br>🎯 Goals: Learn TypeScript for scalable projects<br>🎲 Fun fact: I like Debugging</p>
+<p align="left">✨ Web Development since: 2024<br>📚 Currently learning: React custom Hooks and Redux<br>🎯 Goals: Learn TypeScript for scalable projects<br>🎲 Fun fact: I like developing because it lets me turn imagination into reality</p>
 
 ###
 
