@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Ethical hacking since: 2024<br>📚 Currently learning: Advanced penetration testing, exploit development, and cloud security<br>🎯 Goals: Contribute to open-source security tools and help secure banking systems<br>🎲 Fun fact: I like exploring new security tools and techniques</p>
+<p align="left">✨ Web Development since: 2024<br>📚 Currently learning: React custom Hooks and Redux<br>🎯 Goals: Learn TypeScript for scalable projects<br>🎲 Fun fact: I like Debugging</p>
 
 ###
 
@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
 ###
